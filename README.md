@@ -1,7 +1,7 @@
 # DDoS attack detection and mitigation using deep neural network in SDN environment
 
 # Journal
-Journal of Network and Systems Management
+Journal of Compters and Security
 
 # Date of Submission
 27 June 2023
