@@ -7,6 +7,9 @@ In the contemporary digital landscape, the escalating threat landscape of cyber 
 Compters and Security
 https://www.sciencedirect.com/journal/computers-and-security
 
+## Publisher
+Elsevier
+
 ## Date of Submission
 22nd Sep 2023 | 28th November 2023
 
