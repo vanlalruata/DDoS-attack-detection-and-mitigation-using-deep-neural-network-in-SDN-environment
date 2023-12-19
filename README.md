@@ -23,10 +23,11 @@ Elsevier
 13th Dec 2023
 
 ## DoI
+https://doi.org/10.1016/j.cose.2023.103661
 
 ## URL
+https://www.sciencedirect.com/science/article/abs/pii/S0167404823005710
 
 ## How to cite
+Vanlalruata Hnamte, Ashfaq Ahmad Najar, Hong Nhung-Nguyen, Jamal Hussain, Manohar Naik S, "DDoS attack detection and mitigation using deep neural network in SDN environment," Computers & Security, 103661, ISSN 0167-4048, 2023.
 
-# About
-The code will be made available publicly once the paper is accepted for publication.
